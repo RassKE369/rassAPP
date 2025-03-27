@@ -1,0 +1,232 @@
+    body{
+        background-color: rgb(107, 140, 190);
+        color: white;
+        height: 620vh;
+        margin: 0%;
+        padding-top: 0%;
+        background-image: url("IMG-20250304-WA0016.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: multiply;
+        font-family: sans-serif; 
+        font-size: small;   
+    }
+    h1{
+        font-style: oblique;
+       }
+    p{
+        font-weight: bold; 
+        
+    }
+    .head_main{
+        top: 0;
+        position: sticky;
+        display: flex;
+        margin-top: 0%;
+        justify-content: space-between;
+        font-size: small;
+        background-color: rgb(125, 161, 149);
+        height: fit-content;
+        align-items: center;
+        
+          
+    }
+    .logo{       
+    } 
+    .hh1{
+
+    }
+    .pages_list{
+        background-color: transparent;
+        color: azure;
+        font-size: small;
+        border-style: hidden;   
+       }
+       ul{
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        width: 80%;
+        justify-content: space-around;
+       }  
+       li{
+        
+       }
+       a{
+        text-decoration: none;
+        color: azure;
+        font-size: larger;
+       }
+       .pages{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       }
+       
+       select{
+        list-style: none;
+       }
+       .main1{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: azure;
+        margin-right: 6px;
+        font-size: small;    
+   }
+   .no_items{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(5, 248, 228);
+        margin-right: 6px;
+        font-size: large; 
+        border-style: dashed;
+        font-weight: bolder;
+        border-color: rgb(227, 228, 240);
+        border-radius: 10PX;
+        padding: 4PX;
+   }
+   .figure{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: large;
+    background-color: transparent;
+   }
+   .container{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+   
+}
+    .all{
+        
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        font-size: small;
+        margin-top: 0%; 
+        flex-wrap: wrap;
+        
+
+    }
+    
+
+    .main{
+        width: fit-content;
+        height: fit-content;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        font-size: small;
+        
+         
+    }
+    input{
+        height: fit-content;
+        width: 150px;
+        font-size: small;
+        font-family: sans-serif;
+        font-weight: bolder;
+        border-radius: 2%;
+        border-style: solid;
+        border-color: azure;
+        color: antiquewhite;
+        background-color: transparent;   
+    }
+    .divbutton-1{
+
+    }
+    .BT2{
+        width: 100px;
+        height: 4vh; 
+        border-left: 4dvi;    
+    }
+    
+   .p1{
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: bolder; 
+    color: rgb(47, 45, 48);
+    color: color-mix(in xyz,rgb(0, 247, 255)  20%, white 80%);
+    }
+    .hh1{
+color: rgb(0, 247, 255);
+    }
+    
+    button{
+       font-size: small;
+       font-weight: bolder;
+       color: rgb(184, 179, 173);
+       background-color: white;
+       border-style: hidden;
+       border-radius: 45%;
+    }
+    
+   .items{
+        
+        height: fit-content;
+        width: fit-content;
+        flex-direction: column;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        font-style:normal;
+        margin: 0%;
+   }
+   .item{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+
+
+   }
+   .veg{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    height: 360px;
+    width: fit-content;
+    margin: 5px;
+    padding: 0;
+    color: azure;
+    
+    }
+    
+    
+    .imgi{
+        
+        width: 200px; 
+         
+    }
+    .itemn{
+        color: blue;
+        font-style: normal;
+        font-size: medium;
+        font-weight: bold;
+        background-color: transparent;
+        cursor:grab;
+    }
+    h1, h2, h3{
+        font-size: small;
+    }
+    .bags{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .shoes{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    
